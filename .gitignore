@@ -130,3 +130,4 @@ dmypy.json
 .idea
 /coverage_report
 /docs/generated
+/hasts/recipebook
